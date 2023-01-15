@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "Milano (Guardiões da Galáxia)",
+        "price": 12000,
+        "image": "https://i0.wp.com/nerdizmo.uai.com.br/wp-content/uploads/sites/29/2021/12/10-naves-emblematicas-milano.jpeg?resize=950%2C534&ssl=1"
+    },
+    {
+        "id": "2",
+        "name": "USS Enterprise (Star Trek)",
+        "price": 7600,
+        "image": "https://i0.wp.com/nerdizmo.uai.com.br/wp-content/uploads/sites/29/2021/12/10-naves-emblematicas-uss-enterprise.jpg?resize=950%2C534&ssl=1"
+    },
+    {
+        "id": "3",
+        "name": "Estrela da Morte (Star Wars)",
+        "price": 20500,
+        "image": "https://i0.wp.com/nerdizmo.uai.com.br/wp-content/uploads/sites/29/2021/12/10-naves-emblematicas-estrela-da-morte.jpg?resize=950%2C534&ssl=1"
+    },
+    {
+        "id": "4",
+        "name": "Planet Express (Futurama)",
+        "price": 6725,
+        "image": "https://i0.wp.com/nerdizmo.uai.com.br/wp-content/uploads/sites/29/2021/12/10-naves-emblematicas-planet-express.jpg?resize=950%2C534&ssl=1"
+    },
+    {
+        "id": "5",
+        "name": "Space Cruiser (Rick and Morty)",
+        "price": 19,
+        "image": "https://i0.wp.com/nerdizmo.uai.com.br/wp-content/uploads/sites/29/2021/12/10-naves-emblematicas-space-cruiser.jpg?resize=950%2C534&ssl=1"
+    }
+]
